@@ -29,17 +29,15 @@ In default, you are supposed to work in CrCDA-master folder. The datasets are pu
 CrCDA/data/GTA5/                               % Dataset root
 CrCDA/data/GTA5/images/                        % Images
 CrCDA/data/GTA5/labels/                        % Labels
-...
 ```
 
-- **GTA5**: - Download [Cityscapes](https://www.cityscapes-dataset.com/). Put dataset in the following structure:
+- **Cityscapes**: - Download [Cityscapes](https://www.cityscapes-dataset.com/). Put dataset in the following structure:
 ```bash
-<root_dir>/data/Cityscapes/                         % Dataset root
-<root_dir>/data/Cityscapes/leftImg8bit              % Images
-<root_dir>/data/Cityscapes/leftImg8bit/val          % Validation images
-<root_dir>/data/Cityscapes/gtFine                   % Labels
-<root_dir>/data/Cityscapes/gtFine/val               % Validation Labels
-...
+CrCDA/data/Cityscapes/                         % Dataset root
+CrCDA/data/Cityscapes/leftImg8bit              % Images
+CrCDA/data/Cityscapes/leftImg8bit/val          % Validation images
+CrCDA/data/Cityscapes/gtFine                   % Labels
+CrCDA/data/Cityscapes/gtFine/val               % Validation Labels
 ```
 
 ### Pre-trained models
