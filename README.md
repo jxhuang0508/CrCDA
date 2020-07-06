@@ -1,5 +1,5 @@
-# Contextual-Relation Consistent Domain Adaptation for Semantic Segmentation
-
+# Contextual-Relation Consistent Domain Adaptation
+Jiaxing Huang, Shijian Lu, Dayan Guan, Xiaobing Zhang. "Contextual-Relation Consistent Domain Adaptation for Semantic Segmentation", ECCV 2020
 ## Updates
 - *07/2020*: Accepted to ECCV 2020.
 - Code is coming soon. 
