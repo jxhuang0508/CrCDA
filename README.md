@@ -2,7 +2,7 @@
 Jiaxing Huang, Shijian Lu, Dayan Guan, Xiaobing Zhang. "Contextual-Relation Consistent Domain Adaptation for Semantic Segmentation", ECCV 2020
 ## Updates
 - *07/2020*: Accepted to ECCV 2020.
-- *10/2021*: This technique was done with the company (patent number: 10202003057S), so no plan to release code. 
+- *10/2021*: This technique was done with the company (patent number: 10202003057S), no plan to release code. 
 
 ## Paper
 ![](./0001.jpg)
